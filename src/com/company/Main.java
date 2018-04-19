@@ -10,7 +10,10 @@ public class Main {
 //        print_triangle(3);
 //        print_centered_triangle(5);
 //        print_diamond(3);
-        print_diamond_name("Gabo", 3);
+//        print_diamond_name("Gabo", 3);
+
+        FizzBuzz.FizzBuzz(null);
+
     }
 
     public static void print_asterisk(){
