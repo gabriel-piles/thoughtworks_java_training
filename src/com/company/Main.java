@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
 //        print_asterisk();
 //        print_n_asterisk(3);
 //        print_n_asterisk_in_column(7);
@@ -12,7 +11,8 @@ public class Main {
 //        print_diamond(3);
 //        print_diamond_name("Gabo", 3);
 
-        FizzBuzz.FizzBuzz(null);
+//        FizzBuzz.fizz_buzz();
+        PrimeFactors.print_prime_factors(-11);
 
     }
 

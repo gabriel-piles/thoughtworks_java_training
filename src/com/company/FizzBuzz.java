@@ -2,7 +2,7 @@ package com.company;
 
 public class FizzBuzz {
 
-    public static void FizzBuzz(String[] args) {
+    public static void fizz_buzz() {
 
         print_fizzbuzz_numbers(100);
     }
